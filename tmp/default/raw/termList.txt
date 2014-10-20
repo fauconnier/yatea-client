@@ -1,0 +1,13 @@
+# Inflected form	Frequency	DDW
+similarité sémantique	2	0
+synonymes élémentaires	1	0
+acquisition de synonymes élémentaires	1	0
+utilisation de ressources sémantiques	1	0
+structure syntaxique	1	0
+calcul de la similarité sémantique	1	0
+exploitation des terminologies	1	0
+telles ressources	1	0
+ressources sémantiques	1	0
+zones de fiabilité	1	0
+termes complexes	1	0
+analyse de la structure syntaxique	1	0
